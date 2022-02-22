@@ -22,6 +22,6 @@ public	Properties getPropertyFile(String fileName) throws IOException {
 	
 }
 public void gotoAnyUrl() {
-	
+dr.get("url");	
 }
 }
