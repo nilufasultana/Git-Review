@@ -21,4 +21,7 @@ public	Properties getPropertyFile(String fileName) throws IOException {
 		return p;
 	
 }
+public void gotoAnyUrl() {
+	
+}
 }
